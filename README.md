@@ -1,1 +1,1 @@
-Classico jogo da memoria
+Classico jogo da memoria de imagens
